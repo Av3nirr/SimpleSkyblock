@@ -1,0 +1,13 @@
+name: UltimateSkyBlock
+version: '${project.version}'
+main: fr.av3nirr.UltimateSkyblock
+api-version: 1.19
+authors: [ Av3nirr_ ]
+description: This is a simple plugin for a SkyBlock server
+commands:
+  island:
+    description: Islanc main command
+    usage: /island <parameter>
+    aliases:
+      - is
+      - i
